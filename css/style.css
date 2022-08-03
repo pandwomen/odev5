@@ -1,0 +1,57 @@
+.header{
+    
+    text-align: center;
+    width:1000px;
+    margin-top:30px;
+    margin-left:250px;
+    
+}
+.ust{
+    text-align: center;
+    height:70px;
+    width:1300px;
+    background:rgb(228, 223, 223);
+    margin:0 auto 0 auto;
+    
+    
+}
+.btn{
+    border-radius:10%;
+    background:rgb(214, 208, 208);
+}
+
+.card1{
+    background: rgb(114, 215, 215);
+    width:35%;
+    float:left;
+    padding:1%;
+    margin-left:110px;
+    text-align: center;
+    height:55px;
+
+}
+.card2{
+    background: rgb(118, 193, 193);
+    width:15%;
+    text-align:center;
+    float:left;
+    margin-left:5px;
+    height:85px;
+    
+
+}
+.card3{
+    background: rgb(66, 138, 138);
+    width:500px;
+    text-align:center;
+    float:left;
+    margin-left:5px;
+    height:85px;
+
+}
+.footer{
+    padding:30px;
+    margin-left:50px;
+    float:left;
+    height:50px;
+}
